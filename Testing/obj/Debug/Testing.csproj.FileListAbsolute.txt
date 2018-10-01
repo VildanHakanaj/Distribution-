@@ -1,0 +1,10 @@
+C:\Users\ahaka\source\repos\Testing\Testing\bin\Debug\Testing.exe.config
+C:\Users\ahaka\source\repos\Testing\Testing\bin\Debug\Testing.exe
+C:\Users\ahaka\source\repos\Testing\Testing\bin\Debug\Testing.pdb
+C:\Users\ahaka\source\repos\Testing\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+C:\Users\ahaka\source\repos\Testing\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\ahaka\source\repos\Testing\Testing\obj\Debug\Testing.exe
+C:\Users\ahaka\source\repos\Testing\Testing\obj\Debug\Testing.pdb
+C:\Users\ahaka\source\repos\Testing\Testing\bin\Debug\MathNet.Numerics.dll
+C:\Users\ahaka\source\repos\Testing\Testing\bin\Debug\MathNet.Numerics.xml
+C:\Users\ahaka\source\repos\Testing\Testing\obj\Debug\Testing.csproj.CopyComplete
